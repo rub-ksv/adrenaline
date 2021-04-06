@@ -4,7 +4,7 @@ This repository contains the codebase accompanying the publication:
 
 > Christopher Schymura, Tsubasa Ochiai, Marc Delcroix, Keisuke Kinoshita, Tomohiro Nakatani, Shoko Araki, Dorothea Kolossa, "Exploiting Attention-based Sequence-to-Sequence Architectures for Sound Event Localization", *European Signal Processing Conference (EUSIPCO 2020)*
 
-\[ [IEEEXplore](https://ieeexplore.ieee.org/document/9287224) \]
+\[ [IEEEXplore](https://ieeexplore.ieee.org/document/9287224) \] \[ [arXiv](https://arxiv.org/abs/2103.00417) \]
 
 ## Summary
 
